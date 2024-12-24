@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495581796249",
+    "project_id": "hitproject-77168",
+    "storage_bucket": "hitproject-77168.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495581796249:android:9a24b0cb81a9eca0e4a508",
+        "android_client_info": {
+          "package_name": "com.example.myapplicationLecture3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWb_aadlF-6vbzcytrl91FM-_CpLnXZIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
